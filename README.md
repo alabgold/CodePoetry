@@ -7,4 +7,4 @@ Then one day, that path wasn't possible anymore. </p>
 <br></br>
 <p>This poem is a testament to that. </p>
 <br></br>
-![My Path Image](/images/mypath.jpg)
+<img src="images/mypath.jpg" alt="path"/>
